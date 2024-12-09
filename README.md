@@ -1,4 +1,4 @@
-# HolidaysDotCom
+# Holidays.com
 
 A comprehensive hotel booking application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse, book, and manage hotel reservations while providing an easy-to-use interface for both customers and administrators.  
 
